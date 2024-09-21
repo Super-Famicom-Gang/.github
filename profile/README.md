@@ -1,6 +1,6 @@
-# <center>![SFG Logo](../logo/Logo_16x16_v1_2x_bt.png) Super Famicom Gang ![SFG Logo](../logo/Logo_16x16_v1_2x_bt.png)</center>
+<h1 align="center"><img alt="SFG Logo" src="../logo/Logo_16x16_v1_2x_bt.png"/> Super Famicom Gang <img alt="SFG Logo" src="../logo/Logo_16x16_v1_2x_bt.png"/></h1>
 
-### <center> \- a subgroup of the MoonShine demogroup focused on Super Nintendo Entertaiment System / Super Famicom development. </center>
+<h3 align="center"> - a subgroup of the MoonShine demogroup focused on Super Nintendo Entertaiment System / Super Famicom development. </h3>
 
 ## General facts
 
@@ -21,6 +21,6 @@
 
 ## Coders' GitHub Stats
 
-![alexmush's Stats](https://github-readme-stats.vercel.app/api?username=ADM228&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![AArt1256's Stats](https://github-readme-stats.vercel.app/api?username=AnnoyedArt1256&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![aleksi knutsi's Stats](https://github-readme-stats.vercel.app/api?username=host12prog&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<p align="center"><img alt="alexmush's Stats" src="https://github-readme-stats.vercel.app/api?username=ADM228&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
+<p align="center"><img alt="AArt1256's Stats" src="https://github-readme-stats.vercel.app/api?username=AnnoyedArt1256&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+<img alt="aleksi knutsi's Stats" src="https://github-readme-stats.vercel.app/api?username=host12prog&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
