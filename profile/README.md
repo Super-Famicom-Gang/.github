@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="SFG Logo" src="../logo/Logo_16x16_v1_2x_bt.png"/> Super Famicom Gang <img alt="SFG Logo" src="../logo/Logo_16x16_v1_2x_bt.png"/></h1>
+<h1 align="center"><img alt="SFG Logo" src="https://github.com/Super-Famicom-Gang/.github/blob/main/logo/Logo_16x16_v1_2x_bt.png?raw=true"/> Super Famicom Gang <img alt="SFG Logo" src="https://github.com/Super-Famicom-Gang/.github/blob/main/logo/Logo_16x16_v1_2x_bt.png?raw=true"/></h1>
 
 <h3 align="center"> - a subgroup of the MoonShine demogroup focused on Super Nintendo Entertaiment System / Super Famicom development. </h3>
 
