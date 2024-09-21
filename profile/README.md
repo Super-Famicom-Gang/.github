@@ -22,5 +22,5 @@
 ## Coders' GitHub Stats
 
 <p align="center"><img alt="alexmush's Stats" src="https://github-readme-stats.vercel.app/api?username=ADM228&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
-<p align="center"><img alt="AArt1256's Stats" src="https://github-readme-stats.vercel.app/api?username=AnnoyedArt1256&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-<img alt="aleksi knutsi's Stats" src="https://github-readme-stats.vercel.app/api?username=host12prog&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
+<p align="center"><img alt="AArt1256's Stats" src="https://github-readme-stats.vercel.app/api?username=AnnoyedArt1256&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
+<p align="center"><img alt="aleksi knutsi's Stats" src="https://github-readme-stats.vercel.app/api?username=host12prog&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></p>
